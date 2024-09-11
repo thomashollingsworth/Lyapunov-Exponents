@@ -1,5 +1,6 @@
 # Lyapunov-Exponents
 _Part II Coding Project on calculating Lyapunov Exponents in Python_
+
 _Includes figures, code and final report (pdf)_ 
 
 ## Lyapunov Codes File Structure
