@@ -1,7 +1,7 @@
 # Lyapunov-Exponents
 Part II Coding Project on calculating Lyapunov Exponents in Python
 
-## Code File Structure
+## Lyapunov Codes File Structure
 ### Folder: Logistic Map
 – LogisticMap.py: contains functions that perform the logistic map x(n) → x(n+1) on a 1D array of initial conditions, with options to vary r parameter for each initial condition and the number of iterations.
 
