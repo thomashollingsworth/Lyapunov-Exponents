@@ -1,7 +1,9 @@
 # Lyapunov-Exponents
-_Part II Coding Project on calculating Lyapunov Exponents in Python_
+_Cambridge Physics Part II Coding Project on calculating Lyapunov Exponents_
 
-_Includes figures, code and final report (pdf)_ 
+_Includes various figures, source code in python and final report as a pdf._ 
+
+## Abstract
 
 ## Lyapunov Codes File Structure
 ### Folder: Logistic Map
