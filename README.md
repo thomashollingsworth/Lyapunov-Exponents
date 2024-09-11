@@ -5,6 +5,10 @@ _Includes various figures, source code in python and final report as a pdf._
 
 ## Abstract
 
+_Algorithms for calculating the largest lyapunov exponent and spectrum of lyapunov exponents for discrete and continuous time dynamical systems were implemented in Python and used to analyse the logistic map, the standard map and the Lorenz system. The implementation of each algorithm is detailed and justified accompanied by comments on the complexity and relevant computational physics. The largest lyapunov exponent of the Lorenz system (with standard chaotic parameters) was calculated as 0.899±0.002 and the LLE for the logistic map with parameter r = 3.7 was calculated as 0.355±0.001. The
+algorithm for determining the largest lyapunov exponent for the Lorenz system was shown to decrease
+1 in error as approximately t^(2) ._
+
 ## Lyapunov Codes File Structure
 ### Folder: Logistic Map
 * LogisticMap.py: contains functions that perform the logistic map x(n) → x(n+1) on a 1D array of initial conditions, with options to vary r parameter for each initial condition and the number of iterations.
