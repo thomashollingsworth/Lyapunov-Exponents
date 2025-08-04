@@ -28,11 +28,11 @@ algorithm for determining the largest lyapunov exponent for the Lorenz system wa
   <tr>
     <td>
       <img src="Smap Figures/SMap_K=0.5.png" alt="Standard Map K=0.5" width="300"/><br/>
-      <p align="center"><em>Figure 3: Poincare plot for the standard map, K=0.5, showing stable modes and isolated islands forming</em></p>
+      <p align="center"><em>Figure 3: Poincaré plot for standard map (K=0.5). Stable invariant curves and resonance islands.</em></p>
     </td>
     <td>
       <img src="Smap Figures/SMap_K=2.png" alt="Standard Map K=2.0" width="300"/><br/>
-      <p align="center"><em>Figure 4: Poincare plot for the standard map, K=2.0, showing chaotic trajectories</em></p>
+      <p align="center"><em>Figure 4: Poincaré plot for standard map (K=2.0) showing chaotic trajectories</em></p>
     </td>
   </tr>
 </table>
