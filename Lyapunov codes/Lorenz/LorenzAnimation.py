@@ -29,14 +29,16 @@ def gen_initial_vals(centre: np.ndarray, num: float, size: float) -> np.ndarray:
     return initial_vals
 
 
-def create_trajectories(centre: np.ndarray, num: float, size: float, iterations: float)->np.ndarray:
+def create_trajectories(
+    centre: np.ndarray, num: float, size: float, iterations: float
+) -> np.ndarray:
     """Integrates the trajectories of a cluster of points in the Lorenz system
 
     Args:
         centre (np.ndarray): central trajectory
         num (float): number of points in cluster
         size (float): initial size of cluster of points (cube)
-        iterations (float): number of times outputted by solve_ivp  
+        iterations (float): number of times outputted by solve_ivp
 
     Returns:
         np.ndarray: (x,y,z) trajectories for all of the points in the cluster shape(num,3,iterations) for 3D
